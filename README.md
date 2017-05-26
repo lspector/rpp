@@ -13,4 +13,4 @@ Based on ideas from conversations with:
 - Joshua Newman
 - Anya Spector
 
-Some files are gorilla-repl worksheets, for which you must have leiningen. The assumption is that you will `cd` to the project directory, `lein gorilla`, and then load/execute workseets.
+Assuming that you have leiningen installed, `cd` to the project directory, do `lein gorilla`, point your browser at the indicated URL, browse to `src/rpp/worksheet`, and press `control-enter` in each cell to evaluate it.
